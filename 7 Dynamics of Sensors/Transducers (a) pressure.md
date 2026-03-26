@@ -1,5 +1,5 @@
 ## Exp. No. 7
-**Date:**  
+## DATE 25/03/26
 
 ## Dynamics of Sensors/Transducers (a) pressure 
 
@@ -109,13 +109,14 @@ Low cost
 Effect of ambient conditions
 
 # Circuit Diagram in software
+<img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/7744b8f6-3f4a-4aff-9be7-5a23c3710473" />
+<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/96b8e198-08ae-4093-97a8-e79b28ea2101" />
 
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
+<img width="1383" height="1599" alt="image" src="https://github.com/user-attachments/assets/56274ad7-8c1c-4fc0-8691-06a53845284d" />
 
 
 # Result
+The working principle of strain gauge using straingauge simulator is studied.
