@@ -1,5 +1,5 @@
 ## Exp. No. 3
-**Date:**  
+## DATE 26/03/26
 
 ## LOAD TEST ON SINGLE-PHASE TRANSFORMER
 
@@ -18,10 +18,12 @@
 https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
+<img width="921" height="1479" alt="image" src="https://github.com/user-attachments/assets/2b45516c-38bf-4d9c-aad9-f4392f5950c6" />
 
 
-# Sample images 
+ 
 
 
 # Result
+Hence OC and SC test of a single phase transformer is performed to determine the regulation and efficiency
 
