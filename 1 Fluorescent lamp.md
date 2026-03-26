@@ -1,5 +1,5 @@
 ## Exp. No. 1
-**Date:**  
+## DATE 25/03/2026
 
 ## FFLUORESCENT LAMP
 <img width="1544" height="944" alt="image" src="https://github.com/user-attachments/assets/f2c4ece6-23d7-4090-9712-417a76cdc0f7" />
@@ -11,12 +11,12 @@
 https://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/index.html
 
 ## Circuit Diagram
+<img width="1486" height="861" alt="image" src="https://github.com/user-attachments/assets/a630ec3c-71c1-4fbb-b87a-fe22bf86887d" />
+<img width="1441" height="886" alt="image" src="https://github.com/user-attachments/assets/9d6ee534-4e09-4b47-9868-d6d5e03ce59a" />
 
 
 ## Tabulation / Graph 
-
-
-## Sample images 
-
+![WhatsApp Image 2025-11-25 at 08 16 29_e9dd6b1d](https://github.com/user-attachments/assets/306edec7-8a06-4fcd-b72d-5a630e48a213)
 
 ## Result
+Thus the fluorescent lamp wiring is connected and tested.
