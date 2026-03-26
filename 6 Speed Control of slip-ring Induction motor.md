@@ -1,5 +1,5 @@
 ## Exp. No. 6
-**Date:**  
+## DATE 26/03/26
 
 ## Speed Control of slip-ring Induction motor
 
@@ -16,13 +16,13 @@ To perform the speed control test on slip ring induction motor by rotor resistan
 
 
 # Circuit Diagram in software
+<img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/14ca98fb-1620-4dba-9b7e-49a3a1abbd78" />
 
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
+<img width="1421" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f2c3293-17e3-4da8-87f8-ca5766af096f" />
 
 
 # Result
+Thus the speed control of slip-ring induction motor is obtained using motor and cascade control method.
