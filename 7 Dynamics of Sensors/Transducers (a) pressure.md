@@ -109,14 +109,14 @@ Low cost
 Effect of ambient conditions
 
 # Circuit Diagram in software
+<img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/7744b8f6-3f4a-4aff-9be7-5a23c3710473" />
+<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/96b8e198-08ae-4093-97a8-e79b28ea2101" />
 
-<img width="1435" height="797" alt="image" src="https://github.com/user-attachments/assets/0f702cf1-d2fc-428c-9c25-7072347b252f" />
-<img width="1457" height="795" alt="image" src="https://github.com/user-attachments/assets/bf1bb4c2-c8f4-42ad-b39d-768380de108b" />
-<img width="1483" height="803" alt="image" src="https://github.com/user-attachments/assets/b557c10f-a62e-4b9a-8463-afab48f6f39f" />
+
 
 # Output Graph / Tabulation
+<img width="1383" height="1599" alt="image" src="https://github.com/user-attachments/assets/56274ad7-8c1c-4fc0-8691-06a53845284d" />
 
-![WhatsApp Image 2025-11-21 at 20 45 36_6b39da4c](https://github.com/user-attachments/assets/8c359b74-b0e9-4334-bb44-3825ca40eec0)
 
 # Result
 The working principle of strain gauge using straingauge simulator is studied.
